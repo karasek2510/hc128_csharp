@@ -1,0 +1,74 @@
+Wybrane wektory testowe przekazane przez autora algorytmu:
+
+
+Set 1, vector#  0:
+                         key = 80000000000000000000000000000000
+                          IV = 00000000000000000000000000000000
+               stream[0..63] = 378602B98F32A74847515654AE0DE7ED
+                               8F72BC34776A065103E51595521FFE47
+                               F9AF0A4CB47999CFA26D33BF80954598
+                               9D53DEBFE7A9EFD8B9109CA6EFADDF83
+            stream[192..255] = E7F8DCC6A1D42ECF6A49651F7C610657
+                               B1DF6E58FBEF6A246D6D4CAA83858839
+                               86325BE2B4185B4D63D4BF766C5F4B73
+                               0B89C3CD66018155DFE9D37B6F5C1251
+            stream[256..319] = 6D21763B2FEBADB212AC71388FF93586
+                               48AA1A0E874D3B6932D7F80A5657F88D
+                               A44BDC16AA21E531E3E473CFE6FCA9EE
+                               20739339CE4F2DAC793210C8CC20897F
+            stream[448..511] = 5BB39DF39C64BFA13F2AAE924D3DF4FA
+                               22899838ADB609806C022C36180A3E46
+                               A547CFF7F4DE1151A81AED3646B2D86E
+                               1F0F3C22C92D3459593ED599D1A535DF
+
+
+ Set 3, vector# 36:
+                          key = 2425262728292A2B2C2D2E2F30313233
+                           IV = 00000000000000000000000000000000
+                stream[0..63] = F8088D4E53936A40E21B3AAC1E6D975F
+                                13BCA7E4D6CF7D926F6B9AAC562790D8
+                                E2B66C05A075737B75F8E171C70E1507
+                                94437B818F59052FE5ED87BBADFAD509
+             stream[192..255] = 19686CA73474C6F626390DA198824970
+                                9FE43AD003953D102437DFE11DFDBC64
+                                432929F934A0758B2964EC3B7CFB8C1A
+                                BE23C6B12132B155D3922719DF28ACC6
+             stream[256..319] = 55EA041FDC9CD8438EB7B9C2C5381785
+                                57E53ACC75CA512B88D8531E07DF4C15
+                                35F60851AC242CD46F56DD35241D51AC
+                                6DA52A3BEF555E2844DD4EAFAFE3CE63
+             stream[448..511] = FDFB1D76CEA5E3FD0C5EE1FDA1717684
+                                2120C48956F28A583B291712DEFC158E
+                                FA26FC4A833D31B0EB59F61D942E99D4
+                                AF4BB42D0C0448CF8CDDBEB336738414
+                   xor-digest = E49BAC9E963F83F3AE70026DA7DA496A
+                                0764267F7F5A8A23F7AB32EA0F54D459
+                                32367E47527DF738F7255CC890F15FF5
+                                8160EC0C1A27260856A822810AE63F2C
+
+
+  Set 6, vector#  2:
+                           key = 0A5DB00356A9FC4FA2F5489BEE4194E7
+                            IV = 1F86ED54BB2289F057BE258CF35AC128
+                 stream[0..63] = 82168AB0023B79AAF1E6B4D823855E14
+                                 A7084378036A951B1CFEF35173875ED8
+                                 6CB66AB8410491A08582BE40080C3102
+                                 193BA567F9E95D096C3CC60927DD7901
+
+
+ Set 6, vector#  2:
+                          key = 0A5DB00356A9FC4FA2F5489BEE4194E7
+                           IV = 1F86ED54BB2289F057BE258CF35AC128
+                stream[0..63] = 82168AB0023B79AAF1E6B4D823855E14
+                                A7084378036A951B1CFEF35173875ED8
+                                6CB66AB8410491A08582BE40080C3102
+                                193BA567F9E95D096C3CC60927DD7901
+
+
+  Set 6, vector#  0:
+                           key = 0053A6F94C9FF24598EB3E91E4378ADD
+                            IV = 0D74DB42A91077DE45AC137AE148AF16
+                 stream[0..63] = 2E1ED12A8551C05AF41FF39D8F9DF933
+                                 122B5235D48FC2A6F20037E69BDBBCE8
+                                 05782EFC16C455A4B3FF06142317535E
+                                 F876104C32445138CB26EBC2F88A684C

@@ -1,0 +1,32 @@
+C:\C# Mickey aua\HC128\HC128\obj\Debug\net5.0\HC128.csprojAssemblyReference.cache
+C:\C# Mickey aua\HC128\HC128\obj\Debug\net5.0\HC128.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Mickey aua\HC128\HC128\obj\Debug\net5.0\HC128.AssemblyInfoInputs.cache
+C:\C# Mickey aua\HC128\HC128\obj\Debug\net5.0\HC128.AssemblyInfo.cs
+C:\C# Mickey aua\HC128\HC128\obj\Debug\net5.0\HC128.csproj.CoreCompileInputs.cache
+C:\C# Mickey aua\HC128\HC128\bin\Debug\net5.0\HC128.exe
+C:\C# Mickey aua\HC128\HC128\bin\Debug\net5.0\HC128.deps.json
+C:\C# Mickey aua\HC128\HC128\bin\Debug\net5.0\HC128.runtimeconfig.json
+C:\C# Mickey aua\HC128\HC128\bin\Debug\net5.0\HC128.runtimeconfig.dev.json
+C:\C# Mickey aua\HC128\HC128\bin\Debug\net5.0\HC128.dll
+C:\C# Mickey aua\HC128\HC128\bin\Debug\net5.0\ref\HC128.dll
+C:\C# Mickey aua\HC128\HC128\bin\Debug\net5.0\HC128.pdb
+C:\C# Mickey aua\HC128\HC128\obj\Debug\net5.0\HC128.dll
+C:\C# Mickey aua\HC128\HC128\obj\Debug\net5.0\ref\HC128.dll
+C:\C# Mickey aua\HC128\HC128\obj\Debug\net5.0\HC128.pdb
+C:\C# Mickey aua\HC128\HC128\obj\Debug\net5.0\HC128.genruntimeconfig.cache
+E:\Programowanie\C#\BDAN\hc128-raider\HC128\bin\Debug\net5.0\HC128.exe
+E:\Programowanie\C#\BDAN\hc128-raider\HC128\bin\Debug\net5.0\HC128.deps.json
+E:\Programowanie\C#\BDAN\hc128-raider\HC128\bin\Debug\net5.0\HC128.runtimeconfig.json
+E:\Programowanie\C#\BDAN\hc128-raider\HC128\bin\Debug\net5.0\HC128.runtimeconfig.dev.json
+E:\Programowanie\C#\BDAN\hc128-raider\HC128\bin\Debug\net5.0\HC128.dll
+E:\Programowanie\C#\BDAN\hc128-raider\HC128\bin\Debug\net5.0\ref\HC128.dll
+E:\Programowanie\C#\BDAN\hc128-raider\HC128\bin\Debug\net5.0\HC128.pdb
+E:\Programowanie\C#\BDAN\hc128-raider\HC128\obj\Debug\net5.0\HC128.csprojAssemblyReference.cache
+E:\Programowanie\C#\BDAN\hc128-raider\HC128\obj\Debug\net5.0\HC128.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programowanie\C#\BDAN\hc128-raider\HC128\obj\Debug\net5.0\HC128.AssemblyInfoInputs.cache
+E:\Programowanie\C#\BDAN\hc128-raider\HC128\obj\Debug\net5.0\HC128.AssemblyInfo.cs
+E:\Programowanie\C#\BDAN\hc128-raider\HC128\obj\Debug\net5.0\HC128.csproj.CoreCompileInputs.cache
+E:\Programowanie\C#\BDAN\hc128-raider\HC128\obj\Debug\net5.0\HC128.dll
+E:\Programowanie\C#\BDAN\hc128-raider\HC128\obj\Debug\net5.0\ref\HC128.dll
+E:\Programowanie\C#\BDAN\hc128-raider\HC128\obj\Debug\net5.0\HC128.pdb
+E:\Programowanie\C#\BDAN\hc128-raider\HC128\obj\Debug\net5.0\HC128.genruntimeconfig.cache
